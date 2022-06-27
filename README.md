@@ -1,6 +1,6 @@
-# Topological Data Analysis and Applications in Dynamics
+# Persistent Homology
 ##  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
-## BIOMAT 2022
+## EUTOPIA 2022
 
 <!--<img src="figures/filtration_circle.gif" width="300" height="300" class="center"/>-->
 
@@ -38,7 +38,6 @@ biopython
 ```
 
 The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer other topological features from a sample (such as orientability, singularities and local dimension).
-
 
 
 ### Lecture 2.1: 
