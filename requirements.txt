@@ -1,0 +1,16 @@
+python3
+jupyterlab
+pip
+
+pandas
+matplotlib
+numpy
+sklearn
+seaborn
+scipy
+
+biopython
+ripser
+fermat
+tadasets
+persim
