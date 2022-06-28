@@ -7,7 +7,7 @@
 This repository contains all the lectures and code related to the course.
 
 ### Lecture 1.1: Topological Data Analysis
-This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology.html"> here</a>.
+This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology_EUTOPIA.html"> here</a>.
 The demo of the software Ripser can be found at <a href="https://live.ripser.org/"> this link</a>. The synthetic point clouds to test the software are available at the folder _data_: cicle, sphere and torus.
 
 ### Lecture 1.2: Hands on: computational topology in action
@@ -37,7 +37,7 @@ persim
 biopython
 ```
 
-The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer other topological features from a sample (such as orientability, singularities and local dimension).
+The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology. The notebook _Beyond_Persistent_Homology.ipynb_ describe how to infer other topological features from a sample (such as orientability, singularities, local dimension and low domensional representation).
 
 
 ### Lecture 2.1: 
