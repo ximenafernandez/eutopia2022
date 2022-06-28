@@ -1,10 +1,10 @@
 # Persistent Homology
 ##  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
-## EUTOPIA 2022
+## <a href="https://eutopia.unitn.eu/eutopia-summer-school/"> EUTOPIA 2022 </a>
 
 <!--<img src="figures/filtration_circle.gif" width="300" height="300" class="center"/>-->
 
-This repository contains all the lectures and code related to the course.
+This repository contains all the lectures and code related to the course Persistent Homology, part of the EUTOPIA Summer School 2022.
 
 ### Lecture 1.1: Topological Data Analysis
 This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology_EUTOPIA.html"> here</a>.
