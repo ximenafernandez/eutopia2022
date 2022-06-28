@@ -7,7 +7,7 @@
 This repository contains all the lectures and code related to the course Persistent Homology, as part of the EUTOPIA Summer School 2022.
 
 ### Lecture 1.1: Topological Data Analysis
-This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology_EUTOPIA.html"> here</a>.
+This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology_EUTOPIA.html#/"> here</a>.
 The demo of the software Ripser can be found at <a href="https://live.ripser.org/"> this link</a>. The synthetic point clouds to test the software are available at the folder _data_: cicle, sphere and torus.
 
 
@@ -43,8 +43,8 @@ Some exercises to familiarize yourself with the techniques can be found at the n
 
 ### Lecture 2: 
 We will apply all the methods already learnt to study the topology of one of the following real datasets:
-1. *Cyclo Octane*:
-2. *Grid Cells*:
+1. **Cyclo Octane**:
+2. **Grid Cells**:
 
 ### Lecture 3: 
 We will apply all we have learnt in a concrete problem of _classification of the secondary structure of proteins_. The guided implementation can be found at the notebook
