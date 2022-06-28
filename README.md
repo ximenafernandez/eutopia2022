@@ -42,12 +42,13 @@ The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description a
 Some exercises to familiarize yourself with the techniques can be found at the notebook _Exercises_Persistent_Homology.ipynb_
 
 ### Lecture 2: 
-We will apply all the methods already learnt to study the topology of one of the following real datasets:
+This lecture is about concrete applications of the study of topological descriptors in real data. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Data_Sets_Persistent_Homology.html#/"> here</a>.
+
+2.1. We will apply all the methods already learnt to study the topology of one of the following real datasets:
 1. **Cyclo Octane**:
 2. **Grid Cells**:
 
-### Lecture 3: 
-We will apply all we have learnt in a concrete problem of _classification of the secondary structure of proteins_. The guided implementation can be found at the notebook
+2.2. We will apply all we have learnt in a concrete problem of _classification of the secondary structure of proteins_. The guided implementation can be found at the notebook
  _Proteins_Structure_Classification.ipynb_ 
 
 
