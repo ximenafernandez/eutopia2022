@@ -38,7 +38,7 @@ persim
 biopython
 ```
 
-The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology. The notebook _Beyond_Persistent_Homology.ipynb_ describe how to infer other topological features from a sample (such as orientability, singularities, local dimension and low domensional representation).
+The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology. The notebook _Beyond_Persistent_Homology.ipynb_ describes how to infer other topological features from a sample (such as orientability, singularities, local dimension and low domensional representation).
 Some exercises to familiarize with the techniques can be found at the notebook _Exercises_Persistent_Homology.ipynb_
 
 ### Lecture 2.1: 
