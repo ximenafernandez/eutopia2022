@@ -5,6 +5,8 @@ from sklearn.neighbors import KDTree
 from sklearn.decomposition import PCA
 import warnings
 from kneed import KneeLocator
+from fermat import Fermat
+from scipy.spatial import distance_matrix
 warnings.filterwarnings("ignore")
 
 #####################
@@ -102,3 +104,18 @@ def local_pca(k, pointcloud, max_components = 6) :
     elbows = np.array(elbows)
     
     return (elbows, recovered_variances)
+
+####################
+# Geodesic distance
+####################
+
+def compute_knn_distance(data, k):
+    '''
+    Computes the  estimator of geodesic distance of the algorithm ISOMAP.
+    '''
+    distances = distance_matrix(data,data)
+    f_aprox_D = Fermat(1, path_method='D', k=k) 
+    f_aprox_D.fit(distances)
+    adj_dist = f_aprox_D.get_distances() 
+    
+    return adj_dist
