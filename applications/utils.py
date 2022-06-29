@@ -7,9 +7,9 @@ import warnings
 from kneed import KneeLocator
 warnings.filterwarnings("ignore")
 
-####################
+#####################
 # Geometric anomalies
-####################
+#####################
 
 def local_neighborhood(data, scale):
     D = distance_matrix(data, data)
