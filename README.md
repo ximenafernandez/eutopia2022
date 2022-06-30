@@ -45,7 +45,9 @@ Some exercises to familiarize yourself with the techniques can be found at the n
 This lecture is about concrete applications of the study of topological descriptors in real data. The slides of the lecture are available <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Data_Sets_Persistent_Homology.html#/"> here</a>.
 
 *  We will apply all the topological methods already learned to study the topology of one of the following real datasets:
+
 2.1. **Cyclo Octane**
+
 2.2 **Grid Cells**
 
 * We will apply all we have learned in a concrete problem of _classification of the secondary structure of proteins_, using persistent homology to construct topological features to feed a ML algorithm. The guided implementation can be found at the notebook
