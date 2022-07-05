@@ -77,7 +77,7 @@ def local_pointclouds(k, pointcloud):
 
 def local_pca(k, pointcloud, max_components = 6) :
     '''
-    Applies PCA to local pointclouds and recover local dimension finding elbows in the function od recovered variances
+    Applies PCA to local pointclouds and recover local dimension finding elbows in the function of recovered variances
     '''
     
     elbows = []
